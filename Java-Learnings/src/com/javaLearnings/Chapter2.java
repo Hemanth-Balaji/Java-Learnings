@@ -1,4 +1,4 @@
-package com.javabasics;
+package com.javaLearnings;
 
 public class Chapter2 {
 	
